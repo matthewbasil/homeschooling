@@ -1,6 +1,6 @@
 # homeschooling
 
-In this repository I will put anything I make while homeschooling my kids which seems potentially useful to others.  It took us a lot of research to assemble a curriculum, so I will keep notes on what we do (and what we find to work and not work).
+In this repository I will put anything I make while homeschooling my kids which seems potentially useful to others. I also, I have no idea if anything we are doing is a good idea at all, but I figured I would document it in case it turns out to work, for use with my younger kids when the time comes even if it benefits no one else.
 
 ## Math
 
@@ -11,7 +11,7 @@ We used Bernard Nebel's [_Building Foundations of Scientific Understanding: A Sc
 
 ## Latin
 
-I took a semester of intensive Latin (4 normal semesters crammed into one, an hour a day for a semster) in college but forgot almost all of it, so I am relearning it alongside the kids.  So beware you may find mistakes here.  I also, I have no idea if anything we are doing is a good idea at all, but I figured I would document it in case it turns out to work, for use with my younger kids when the time comes if nothing else.
+I took a semester of intensive Latin (4 normal semesters crammed into one, an hour a day for a semster) in college but forgot almost all of it, so I am relearning it alongside the kids.  So beware you may find mistakes here.  
 
 Currently one just have one kid, X, in school, but a second Y, listens along and picks some things up.  Our routine is as follows:
 - each morning:
