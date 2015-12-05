@@ -22,6 +22,8 @@ Currently one just have one kid, X, in school, but a second Y, listens along and
 
 I am making notes on anywhere I diverge significantly from Memoria Press's curriculum in the file `latin/divergences.md`.  
 
+# Mistakes
+If you are not technical at all, just e-mail me.  If you are moderately technical, file a GitHub issue. If you are very technical, fork the repo, fix it, and send me a pull request.
 [csmp]: http://stern.buffalostate.edu/CSMPProgram/
 [fred]: http://www.stanleyschmidt.com/FredGauss/index2.html
 [nebel]: http://pressforlearning.com/
