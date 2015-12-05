@@ -29,6 +29,15 @@ We don't have a formal curriculum for this; mostly doing it ad-hoc as feasts of 
   - [_Saints in Art_][saints]; [_Gospel Figures in Art_][art] (Guide to Imagery Series)
   - [The Little Oratory: A Beginner's Guide to Praying in the Home][oratory] by Leila Lawler and David Clayton.
 
+## Reading
+
+As preparation we taught sight words and letter sounds while reading books to X for about a year before he started to read.  When we were ready for formal teaching, we used Memoria Press's [First Start Reading][firstStart] together with the colored Primary Phonics readers (not published by MP but available from them).  It worked.  We didn't end up using Classical Phonics directly (which is also part of the MP curriculum) but my wife found it helpful (I have an undergrad degree in linguistics, so I didn't really need it).
+
+Now that he reads well we use the grade-level books in the Memoria Press curriculum as a baseline and add more to supplement.  We also use MP's spelling curriculum intermittently.
+
+## General
+- [Worksheet Works][http://www.worksheetworks.com/] can make all sorts of worksheets for drilling math, Latin, etc.  We don't do a lot of drilling, but occassionally it's necessary.
+
 # Mistakes
 If you are not technical at all, just e-mail me.  If you are moderately technical, file a GitHub issue. If you are very technical, fork the repo, fix it, and send me a pull request.
 [csmp]: http://stern.buffalostate.edu/CSMPProgram/
@@ -40,3 +49,4 @@ If you are not technical at all, just e-mail me.  If you are moderately technica
 [saints]: http://www.amazon.com/Saints-Art-Guide-Imagery-Series/dp/0892367172
 [art]: http://www.amazon.com/gp/product/089236727X/ref=pd_lpo_sbs_dp_ss_3?pf_rd_p=1944687662&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0892367172&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=0J6G4RNAZFB728MCXDBZ
 [oratory]: http://www.sophiainstitute.com/landing/little-oratory/
+[firstStart]: http://www.memoriapress.com/curriculum/phonics-and-early-reading/first-start-reading
