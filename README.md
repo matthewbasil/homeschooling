@@ -1,6 +1,6 @@
 # homeschooling
 
-In this repository I will put anything I make while homeschooling my kids which seems potentially useful to others.  
+In this repository I will put anything I make while homeschooling my kids which seems potentially useful to others.  It took us a lot of research to assemble a curriculum, so I will keep notes on what we do (and what we find to work and not work).
 
 ## Math
 
