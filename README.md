@@ -7,7 +7,7 @@ In this repository I will put anything I make while homeschooling my kids which 
 We started off using [CSMP][csmp], but now use Stanley Schmidt's outstanding [_Life With Fred_][fred] almost exclusively.  We currently do one chapter of Fred each day in the morning.  I love it, my kids love it.  
 
 ## Science
-We used Bernard Nebel's [_Building Foundations of Scientific Understanding: A Science Curriculum for K-2][nebel].  We sprinkle this in at the rate of one lesson every week or two and try to reinforce its ideas in the course of daily life.
+We used Bernard Nebel's [_Building Foundations of Scientific Understanding: A Science Curriculum for K-2_][nebel].  We sprinkle this in at the rate of one lesson every week or two and try to reinforce its ideas in the course of daily life.
 
 ## Latin
 
