@@ -15,7 +15,7 @@ I took a semester of intensive Latin (4 normal semesters crammed into one, an ho
 
 Currently one just have one kid, X, in school, but a second Y, listens along and picks some things up.  Our routine is as follows:
 - each morning:
-  - do a chapter of Johann Comenius's _Orbis Sensualium Pictus_ ([printed copy][comenius] from LuLu in conjunction with [Evan der Milner's videos][derMilner]).  Mr. der Milner says a phrase in Latin, then in English; I do the same; then the kid does.  This is very popular with the kids.
+  - do a chapter of Johann Comenius's _Orbis Sensualium Pictus_ ([printed copy][comenius] from LuLu in conjunction with [Evan der Milner's videos][derMilner]).  Mr. der Milner says a phrase in Latin, then in English; I do the same; then X does.  This is very popular with the kids (who have made a song out of parts of the alphabet in chapter 1).
   - practice vocabulary from Memoria Press's [Prima Latina][primaLatina].  We typically do a spaced-repetition drill until X has gotten them all correct.  We usually get through two lessons per week.
 - each afternoon:
   - X does one round of flash cards and one round of "matching" for the Prima Latina vocab on a Kindle tablet. X is otherwise not really allowed to use computers or tablets yet, so this is more a treat for him than a chore.
