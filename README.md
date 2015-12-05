@@ -22,6 +22,13 @@ Currently one just have one kid, X, in school, but a second Y, listens along and
 
 I am making notes on anywhere I diverge significantly from Memoria Press's curriculum in the file `latin/divergences.md`.  
 
+## Catechism
+
+We don't have a formal curriculum for this; mostly doing it ad-hoc as feasts of the Church year, etc. come up.  Some useful books:
+  - Enid Chadwick's [_My Book of the Church Year_][enid]
+  - [_Saints in Art_][saints]; [_Gospel Figures in Art_][art] (Guide to Imagery Series)
+  - [The Little Oratory: A Beginner's Guide to Praying in the Home][oratory] by Leila Lawler and David Clayton.
+
 # Mistakes
 If you are not technical at all, just e-mail me.  If you are moderately technical, file a GitHub issue. If you are very technical, fork the repo, fix it, and send me a pull request.
 [csmp]: http://stern.buffalostate.edu/CSMPProgram/
@@ -29,3 +36,7 @@ If you are not technical at all, just e-mail me.  If you are moderately technica
 [nebel]: http://pressforlearning.com/
 [comenius]: http://www.lulu.com/shop/johann-comenius/orbis-sensualium-pictus/hardcover/product-21772497.html
 [derMilner]: https://www.youtube.com/watch?v=PxGyOyUJAEI
+[enid]: http://www.amazon.com/Book-Churchs-Year-Peter-Kwasniewski/dp/1519297459/ref=sr_1_sc_1?ie=UTF8&qid=1449282462&sr=8-1-spell&keywords=my+book+of+the+hcurch+year
+[saints]: http://www.amazon.com/Saints-Art-Guide-Imagery-Series/dp/0892367172
+[art]: http://www.amazon.com/gp/product/089236727X/ref=pd_lpo_sbs_dp_ss_3?pf_rd_p=1944687662&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0892367172&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=0J6G4RNAZFB728MCXDBZ
+[oratory]: http://www.sophiainstitute.com/landing/little-oratory/
