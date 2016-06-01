@@ -35,9 +35,9 @@ We try (emphsis on _try_) to do an abbreviated version of the Daily Office in th
 
 ## Reading
 
-As preparation we taught sight words and letter sounds while reading books to X for about a year before he started to read.  When we were ready for formal teaching, we used Memoria Press's [First Start Reading][firstStart] together with the colored Primary Phonics readers (not published by MP but available from them).  It worked.  We didn't end up using Classical Phonics directly (which is also part of the MP curriculum) but my wife found it helpful (I have an undergrad degree in linguistics, so I didn't really need it).
+As preparation we taught sight words and letter sounds while reading books to X for about a year before he started to read.  When we were ready for formal teaching, we used Memoria Press's [First Start Reading][firstStart] together with the colored Primary Phonics readers (not published by MP but available from them).  It worked.  We didn't end up using Classical Phonics directly (which is also part of the MP curriculum) but my wife found it helpful (I have an undergrad degree in linguistics, so I didn't really need it).  After going through the phonics readers we went through a few grades of the standard books in the Memoria Press curriculum, then switched to just having him read whatever he felt like. 
 
-Now that he reads well we use the grade-level books in the Memoria Press curriculum as a baseline and add more to supplement.  We also use MP's spelling curriculum intermittently.
+We used MP's spelling curriculum intermittently but haven't done much with it lately.
 
 ## Spanish
 
@@ -45,10 +45,11 @@ We take Spanish classes from [Spanish Homeschool Academy][spanishAcademy]. Curre
 
 ## General
 - [Worksheet Works][http://www.worksheetworks.com/] can make all sorts of worksheets for drilling math, Latin, etc.  We don't do a lot of drilling, but occassionally it's necessary.
-- we use [Anki] for drilling. Currently X has decks for math (multiplication facts, things he learns from Life with Fred, etc.), Spanish, and Latin.  For Latin, this includes vocabulary from the MP books and both vocabulary and items derived from the marginal notes in _Lingua Latina_.  He does them for 10-20 minutes a day every day but Sunday.
+- we use [Anki][anki] for drilling. Currently X has decks for math (multiplication facts, things he learns from Life with Fred, etc.), Spanish, and Latin.  For Latin, this includes vocabulary from the MP books and both vocabulary and items derived from the marginal notes in _Lingua Latina_.  He does them for 10-20 minutes a day every day but Sunday. Y also uses Anki for English sight words and the MP kindergarten recitation facts (Anki allows you to record sound, so he doesn't need to read to use it).
 
 # Mistakes
 If you are not technical at all, just e-mail me.  If you are moderately technical, file a GitHub issue. If you are very technical, fork the repo, fix it, and send me a pull request.
+[anki]: http://ankisrs.net/
 [csmp]: http://stern.buffalostate.edu/CSMPProgram/
 [fred]: http://www.stanleyschmidt.com/FredGauss/index2.html
 [customary]: https://books.google.com/books/about/The_Customary_of_Our_Lady_of_Walsingham.html?id=NvlSAwAAQBAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false
